@@ -1,8 +1,11 @@
 # Dịch vụ thuê API dưới dạng Server.
-- Ngân hàng hỗ trợ
+- **Ngân hàng hỗ trợ**
 - MB BANK
 - Techcombank
-
+- **Servers**
+- USA
+- Singapore
+- Frankfurt
 # Giá
 ## MB BANK 
 ### Gói Cơ Bản | 25K / Tháng
