@@ -20,5 +20,7 @@
 ### Gói Trung Cấp 85K / Tháng
 - CPU: 0.5 vCore
 - Ram: 512MB
+# Demo
+[Click Here](https://demo-latest.us.nzx.lol/)
 # Liên Hệ
 **hasmcu@gmail.com**
