@@ -13,7 +13,7 @@
 - Ram: 512MB
 ## Techcombank
 ### Gói Miễn Phí 
-**Đây là gói được trải nghiệm thông qua dịch vụ thanh toán qua cổng thanh toánthanhcổngq, Phí sử dụng dịch vụ là 0.2%**
+**Đây là gói được trải nghiệm thông qua dịch vụ thanh toán qua cổng thanh NzPayTCB, Phí sử dụng dịch vụ là 0.2%**
 ### Gói trung cấp
 ### Gói Trung Cấp 85K / Tháng
 - CPU: 0.5 vCore
